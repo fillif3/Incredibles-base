@@ -3,6 +3,18 @@ Arithmetic operations
 '''
 
 def summation(a, b):
+    """
+    Sum two numbers.
+
+    Parameters:
+    -----------
+    a: float
+    b: float
+
+    Returns:
+    -----------
+    float, the sum of a and b
+    """
     return a + b
 
 def subtraction(a, b):
