@@ -1,5 +1,7 @@
-# collab-forks
-A demo for working on collaborative development using a shared workflow.
+# Incredible Fork
+An attempt of the incredibles group to set up a forking workflow. Let's go!
+
+
 
 
 
