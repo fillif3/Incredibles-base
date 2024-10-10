@@ -25,6 +25,8 @@ def division(a, b):
         return a / b
     else:
         raise ValueError("Division by zero is not allowed.")
+def square(a)
+    return a*a
 
 def multiplication(a, b):
     return a * b 
